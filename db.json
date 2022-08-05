@@ -1,0 +1,62 @@
+{
+    "ConsultaBitacoraCorreos":[
+        
+        {
+          
+            "id": 1,
+            "Fecha": "2019-03-26 18:30:16",
+            "Usuario": "Ramiro Javier Martinez Cruz",
+            "Expediente": "C017138",
+            "Accion":"ALTA REGISTRO USUARIO",
+            "Descripcion": "SE DA DE ALTA EL USUARIO CHRISTIAN ARAVIER MIMILA RODRIGUEZ CON EL CORREO ... POR MOTIVO DE..."
+        },
+        {
+            "id": 2,
+            "Fecha": "2019-03-26 18:30:16",
+            "Usuario": "Ramiro Javier Martinez Cruz",
+            "Expediente": "C017138",
+            "Accion":"ALTA REGISTRO USUARIO",
+            "Descripcion": "SE DA DE ALTA EL USUARIO CHRISTIAN ARAVIER MIMILA RODRIGUEZ CON EL CORREO ... POR MOTIVO DE..."
+        },
+        {
+            "id": 3,
+            "Fecha": "2019-03-26 18:30:16",
+            "Usuario": "Ramiro Javier Martinez Cruz",
+            "Expediente": "C017138",
+            "Accion":"ALTA REGISTRO USUARIO",
+            "Descripcion": "SE DA DE ALTA EL USUARIO CHRISTIAN ARAVIER MIMILA RODRIGUEZ CON EL CORREO ... POR MOTIVO DE..."
+        },
+        {
+            "id": 4,
+            "Fecha": "2019-03-26 18:30:16",
+            "Usuario": "Ramiro Javier Martinez Cruz",
+            "Expediente": "C017138",
+            "Accion":"ALTA REGISTRO USUARIO",
+            "Descripcion": "SE DA DE ALTA EL USUARIO CHRISTIAN ARAVIER MIMILA RODRIGUEZ CON EL CORREO ... POR MOTIVO DE..."
+        },
+        {
+            "id": 5,
+            "Fecha": "2019-03-26 18:30:16",
+            "Usuario": "Ramiro Javier Martinez Cruz",
+            "Expediente": "C017138",
+            "Accion":"ALTA REGISTRO USUARIO",
+            "Descripcion": "SE DA DE ALTA EL USUARIO CHRISTIAN ARAVIER MIMILA RODRIGUEZ CON EL CORREO ... POR MOTIVO DE..."
+        },
+        {
+            "id": 6,
+            "Fecha": "2019-03-26 18:30:16",
+            "Usuario": "Ramiro Javier Martinez Cruz",
+            "Expediente": "C017138",
+            "Accion":"ALTA REGISTRO USUARIO",
+            "Descripcion": "SE DA DE ALTA EL USUARIO CHRISTIAN ARAVIER MIMILA RODRIGUEZ CON EL CORREO ... POR MOTIVO DE..."
+        },
+        {
+            "id": 7,
+            "Fecha": "2019-03-26 18:30:16",
+            "Usuario": "Ramiro Javier Martinez Cruz",
+            "Expediente": "C017138",
+            "Accion":"ALTA REGISTRO USUARIO",
+            "Descripcion": "SE DA DE ALTA EL USUARIO CHRISTIAN ARAVIER MIMILA RODRIGUEZ CON EL CORREO ... POR MOTIVO DE..."
+        }        
+    ]
+}
